@@ -19,7 +19,7 @@ function App() {
                 <li className="hover:bg-[#D54560] hover:text-[#FDD9B5] px-3 py-2 rounded">Bienestar</li>
                 <li className="hover:bg-[#D54560] hover:text-[#FDD9B5] px-3 py-2 rounded">Belleza</li>
                 <li className="hover:bg-[#D54560] hover:text-[#FDD9B5] px-3 py-2 rounded">Productos</li>
-                <li className="hover:bg-[#D54560] hover:text-[#FDD9B5] px-3 py-2 rounded">Empresas Embajadoras</li>
+                <li className="hover:bg-[#D54560] hover:text-[#FDD9B5] px-3 py-2 rounded">Empresas Embajadoras</li> 
               </ul>
             </nav>
             <div>
